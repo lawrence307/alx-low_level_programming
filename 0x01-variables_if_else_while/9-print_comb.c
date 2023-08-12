@@ -2,7 +2,9 @@
  * File: 9-print_comb.c
  * Auth: Lawrence M Nzomo
  */
+
 #include <stdio.h>
+
 /**
  * main: Prints all possible combination of single-digit numbers
  *
